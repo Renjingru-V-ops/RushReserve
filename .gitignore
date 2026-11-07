@@ -37,3 +37,6 @@ target/
 
 # Windows OS files
 Thumbs.db
+# IntelliJ IDEA project files
+.idea/
+*.iml
